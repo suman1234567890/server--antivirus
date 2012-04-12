@@ -1,0 +1,5 @@
+G:\CloudFinal\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\CloudFinal\Server\Server\bin\Debug\Server.exe
+G:\CloudFinal\Server\Server\bin\Debug\Server.pdb
+G:\CloudFinal\Server\Server\obj\x86\Debug\Server.exe
+G:\CloudFinal\Server\Server\obj\x86\Debug\Server.pdb
